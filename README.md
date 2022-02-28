@@ -1,5 +1,7 @@
 # Blogkit Notion Starter
 
+Starter template for [blogkit](https://github.com/2nthony/blogkit).
+
 ## Blogging
 
 First, duplicate the [template](https://2nthony.notion.site/cd8c60e825274c278e671af80f09f385?v=c8368886a493480b848ab10bb16b9a2b) to your notion.
