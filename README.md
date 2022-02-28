@@ -2,21 +2,25 @@
 
 Starter template for [blogkit](https://github.com/2nthony/blogkit).
 
-## Blogging
+## Getting started
 
-First, duplicate the [template](https://2nthony.notion.site/cd8c60e825274c278e671af80f09f385?v=c8368886a493480b848ab10bb16b9a2b) to your notion.
+### Get notion template
 
-## Build the blog
+Duplicate the [template](https://2nthony.notion.site/cd8c60e825274c278e671af80f09f385?v=c8368886a493480b848ab10bb16b9a2b) to your notion.
 
-Before building the blog, you need to follow the [Getting Started](https://developers.notion.com/docs/getting-started#getting-started) to get 2 required **environment variables** below:
+### Get environment variables
+
+Follow the [Getting Started](https://developers.notion.com/docs/getting-started#getting-started) to get 2 required **environment variables**:
 
 - `NOTION_TOKEN`
 - `NOTION_DATABASE_ID`
 
-```console
-npm i
+## Configuration
 
-npm run export
-```
+1. Update the site title in `blogkit.config.ts`.
 
-The static site will be output to `out/`.
+## Deploy your own
+
+Deploy the blogkit notion starter using Vercel:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F2nthony%2Fblogkit-notion-starter&env=NOTION_TOKEN,NOTION_DATABASE_ID)
