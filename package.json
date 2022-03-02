@@ -9,7 +9,7 @@
     "export": "npm run build && next export"
   },
   "dependencies": {
-    "blogkit": "^0.1.1",
+    "blogkit": "^0.2.0",
     "blogkit-notion": "^0.2.0",
     "blogkit-theme-minimal": "^0.1.2",
     "next": "12.1.0",
