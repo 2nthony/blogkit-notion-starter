@@ -6,7 +6,7 @@ Starter template for [blogkit](https://github.com/2nthony/blogkit).
 
 ### Get notion template
 
-Duplicate the [database](https://2nthony.notion.site/cd8c60e825274c278e671af80f09f385?v=c8368886a493480b848ab10bb16b9a2b) to your notion.
+Duplicate the [database](https://2nthony.notion.site/b48993719cb846d09bd22b8fe211728a?v=e47faf3edb0a49378e650b5e95dac6d8) to your notion.
 
 ### Get environment variables
 
